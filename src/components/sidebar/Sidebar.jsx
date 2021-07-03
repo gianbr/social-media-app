@@ -47,64 +47,64 @@ export default function Sidebar() {
                 <hr className="sidebarHr"/>
                 <ul className="sidebarFriendList">
                     <li className="sidebarFriend">
-                        <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
+                        <img className="sidebarFriendImage" src="/assets/person/profile-pic-m.jpeg" alt="" />
+                        <span className="sidebarFriendName">Marti Manzo</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImage" src="/assets/person/4.jpeg" alt="" />
+                        <span className="sidebarFriendName">Andrés Ceballos</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImage" src="/assets/person/7.jpeg" alt="" />
+                        <span className="sidebarFriendName">María Gutierrez</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImage" src="/assets/person/8.jpeg" alt="" />
+                        <span className="sidebarFriendName">Cristian Rodriguez</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImage" src="/assets/person/9.jpeg" alt="" />
+                        <span className="sidebarFriendName">Carla Fernandez</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className="sidebarFriendImage" src="/assets/person/10.jpeg" alt="" />
+                        <span className="sidebarFriendName">Ernesto Durán</span>
                     </li>
                     <li className="sidebarFriend">
                         <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
+                        <span className="sidebarFriendName">Ivan Menendez</span>
                     </li>
                     <li className="sidebarFriend">
                         <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
+                        <span className="sidebarFriendName">Daniela Diaz</span>
                     </li>
                     <li className="sidebarFriend">
                         <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
+                        <span className="sidebarFriendName">Augusto Gonzalez</span>
                     </li>
                     <li className="sidebarFriend">
                         <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
+                        <span className="sidebarFriendName">Candela Pereyra</span>
                     </li>
                     <li className="sidebarFriend">
                         <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
+                        <span className="sidebarFriendName">Juan Perez</span>
                     </li>
                     <li className="sidebarFriend">
                         <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
+                        <span className="sidebarFriendName">Natalia Dominguez</span>
                     </li>
                     <li className="sidebarFriend">
                         <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
+                        <span className="sidebarFriendName">Pedro Martinez</span>
                     </li>
                     <li className="sidebarFriend">
                         <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
+                        <span className="sidebarFriendName">Mercedes Fray</span>
                     </li>
                     <li className="sidebarFriend">
                         <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
-                    </li>
-                    <li className="sidebarFriend">
-                        <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
-                    </li>
-                    <li className="sidebarFriend">
-                        <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
-                    </li>
-                    <li className="sidebarFriend">
-                        <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
-                    </li>
-                    <li className="sidebarFriend">
-                        <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
-                    </li>
-                    <li className="sidebarFriend">
-                        <img className="sidebarFriendImage" src="/assets/person/2.jpeg" alt="" />
-                        <span className="sidebarFriendName">John Doe</span>
+                        <span className="sidebarFriendName">Hugo Lopez</span>
                     </li>
                 </ul>
             </div>
